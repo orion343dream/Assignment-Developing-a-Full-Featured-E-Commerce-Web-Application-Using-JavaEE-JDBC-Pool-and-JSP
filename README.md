@@ -86,7 +86,6 @@ _Showcasing key features like the Home Page, Product List, Cart, and Admin Dashb
 )
 ![Profile Manege Screenshot](#![Screenshot 2025-01-26 231229](https://github.com/user-attachments/assets/bd1506dc-22e5-458c-815a-c99266d904b8)
 )
-![Category Manegement Screenshot](#)
 ---
 
 ## 🎥 **Video Demonstration**  
