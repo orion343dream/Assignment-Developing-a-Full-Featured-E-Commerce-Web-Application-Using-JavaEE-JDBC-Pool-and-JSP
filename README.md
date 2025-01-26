@@ -1,5 +1,3 @@
-Here’s a stylish and visually engaging version of your README using emojis and creative formatting:
-
 ---
 
 # 🌐 **E-Commerce Web Application**  
