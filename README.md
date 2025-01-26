@@ -70,7 +70,7 @@ Create user-friendly JSP pages:
 
 ## 📸 **Screenshots**  
 _Showcasing key features like the Home Page, Product List, Cart, and Admin Dashboard._  
-![Home Page Screenshot](#)  
+![Home Page Screenshot](#https://github.com/orion343dream/Assignment-Developing-a-Full-Featured-E-Commerce-Web-Application-Using-JavaEE-JDBC-Pool-and-JSP/blob/main/Images%20for%20README/Screenshot%202025-01-26%20230126.png)  
 ![Product List Screenshot](#)  
 ![Cart Screenshot](#)
 
