@@ -80,9 +80,11 @@ _Showcasing key features like the Home Page, Product List, Cart, and Admin Dashb
 )
 ![Product List Screenshot](#![Screenshot 2025-01-26 230730](https://github.com/user-attachments/assets/8ae47048-7390-4549-90f4-16a44ec14851)
 )
-![Cart Screenshot](#![Screenshot 2025-01-26 231104](https://github.com/user-attachments/assets/7917bb36-f485-4d29-aeb2-6a9e8aba8328)
+![Cart Screenshot](![Screenshot 2025-02-05 133655](https://github.com/user-attachments/assets/ec9e0e23-2fa8-434f-bddf-64b2a1e69537)
 )
-![Order Placement Screenshot](#![Screenshot 2025-01-26 231155](https://github.com/user-attachments/assets/a19f8d3e-b79b-4e44-b1b5-8afdcc7f5056)
+)
+![Order Placement Screenshot](![Screenshot 2025-02-05 133715](https://github.com/user-attachments/assets/047e21a8-eef8-4a60-9069-9378600aad4f)
+
 )
 ![Profile Manege Screenshot](#![Screenshot 2025-01-26 231229](https://github.com/user-attachments/assets/bd1506dc-22e5-458c-815a-c99266d904b8)
 )
