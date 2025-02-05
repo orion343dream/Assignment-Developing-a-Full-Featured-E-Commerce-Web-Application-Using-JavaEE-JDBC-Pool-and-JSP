@@ -70,21 +70,21 @@ Create user-friendly JSP pages:
 
 ## 📸 **Screenshots**  
 _Showcasing key features like the Home Page, Product List, Cart, and Admin Dashboard._  
-[Admin Login Page Screenshot]([Screenshot 2025-01-26 230126](https://github.com/user-attachments/assets/ae528380-86e2-4bdd-8cef-b1867cb18e64)
+![Admin Login Page Screenshot](#![Screenshot 2025-01-26 230126](https://github.com/user-attachments/assets/ae528380-86e2-4bdd-8cef-b1867cb18e64)
 )  
-[Admin Dashboard Screenshot]([Screenshot 2025-01-26 230346](https://github.com/user-attachments/assets/fd59664f-8cb6-40ed-8332-149051f31c42)
+![Admin Dashboard Screenshot](#![Screenshot 2025-01-26 230346](https://github.com/user-attachments/assets/fd59664f-8cb6-40ed-8332-149051f31c42)
 )  
-[Category Manegement Screenshot]([Screenshot 2025-01-26 230429](https://github.com/user-attachments/assets/2fed75b3-9457-4840-9462-83df0dd2d743)
+![Category Manegement Screenshot](#![Screenshot 2025-01-26 230429](https://github.com/user-attachments/assets/2fed75b3-9457-4840-9462-83df0dd2d743)
 )
-[CUser Manegement Screenshot]([Screenshot 2025-01-26 230628](https://github.com/user-attachments/assets/fbe0f128-93ec-4155-b505-75dae444b6ec)
+![CUser Manegement Screenshot](#![Screenshot 2025-01-26 230628](https://github.com/user-attachments/assets/fbe0f128-93ec-4155-b505-75dae444b6ec)
 )
-[Product List Screenshot]([Screenshot 2025-01-26 230730](https://github.com/user-attachments/assets/8ae47048-7390-4549-90f4-16a44ec14851)
+![Product List Screenshot](#![Screenshot 2025-01-26 230730](https://github.com/user-attachments/assets/8ae47048-7390-4549-90f4-16a44ec14851)
 )
-[Cart Screenshot]([Screenshot 2025-01-26 231104](https://github.com/user-attachments/assets/7917bb36-f485-4d29-aeb2-6a9e8aba8328)
+![Cart Screenshot](#![Screenshot 2025-01-26 231104](https://github.com/user-attachments/assets/7917bb36-f485-4d29-aeb2-6a9e8aba8328)
 )
-[Order Placement Screenshot]([Screenshot 2025-01-26 231155](https://github.com/user-attachments/assets/a19f8d3e-b79b-4e44-b1b5-8afdcc7f5056)
+![Order Placement Screenshot](#![Screenshot 2025-01-26 231155](https://github.com/user-attachments/assets/a19f8d3e-b79b-4e44-b1b5-8afdcc7f5056)
 )
-[Profile Manege Screenshot]([Screenshot 2025-01-26 231229](https://github.com/user-attachments/assets/bd1506dc-22e5-458c-815a-c99266d904b8)
+![Profile Manege Screenshot](#![Screenshot 2025-01-26 231229](https://github.com/user-attachments/assets/bd1506dc-22e5-458c-815a-c99266d904b8)
 )
 ---
 
