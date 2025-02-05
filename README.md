@@ -76,7 +76,7 @@ _Showcasing key features like the Home Page, Product List, Cart, and Admin Dashb
 )  
 ![Category Manegement Screenshot](#![Screenshot 2025-01-26 230429](https://github.com/user-attachments/assets/2fed75b3-9457-4840-9462-83df0dd2d743)
 )
-![CUser Manegement Screenshot](#![Screenshot 2025-01-26 230628](https://github.com/user-attachments/assets/fbe0f128-93ec-4155-b505-75dae444b6ec)
+![User Manegement Screenshot](#![Screenshot 2025-01-26 230628](https://github.com/user-attachments/assets/fbe0f128-93ec-4155-b505-75dae444b6ec)
 )
 ![Product List Screenshot](#![Screenshot 2025-01-26 230730](https://github.com/user-attachments/assets/8ae47048-7390-4549-90f4-16a44ec14851)
 )
