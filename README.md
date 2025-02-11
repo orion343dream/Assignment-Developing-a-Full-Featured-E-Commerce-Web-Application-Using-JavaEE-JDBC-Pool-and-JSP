@@ -91,7 +91,7 @@ _Showcasing key features like the Home Page, Product List, Cart, and Admin Dashb
 ---
 
 ## 🎥 **Video Demonstration**  
-📺 [**Watch the demo on YouTube**](#)  
+📺 [**Watch the demo on YouTube**](https://youtu.be/8pdBVLcsOHw?si=9xI8sg9c51Np1Gvz)  
 ()
 
 ---
