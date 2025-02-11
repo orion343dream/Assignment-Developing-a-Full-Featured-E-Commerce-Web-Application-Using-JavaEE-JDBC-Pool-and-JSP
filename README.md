@@ -17,6 +17,11 @@ Gain practical experience in creating **dynamic web applications** using **JavaE
 
 ---
 
+## 🎥 **Video Demonstration**  
+📺 [**Watch the demo on YouTube**](https://youtu.be/8pdBVLcsOHw?si=9xI8sg9c51Np1Gvz)  
+
+---
+
 ## 🛠️ **Features**  
 
 ### 👨‍💻 **Administrator Features**  
@@ -88,10 +93,6 @@ _Showcasing key features like the Home Page, Product List, Cart, and Admin Dashb
 )
 ![Profile Manege Screenshot](#![Screenshot 2025-01-26 231229](https://github.com/user-attachments/assets/bd1506dc-22e5-458c-815a-c99266d904b8)
 )
----
-
-## 🎥 **Video Demonstration**  
-📺 [**Watch the demo on YouTube**](https://youtu.be/8pdBVLcsOHw?si=9xI8sg9c51Np1Gvz)  
 
 
 ---
